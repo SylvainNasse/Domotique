@@ -1,0 +1,7 @@
+target
+.tmp
+logs
+
+# eclipse
+.classpath
+.project
